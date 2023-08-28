@@ -3,9 +3,6 @@
   <dmn:extensionElements/>
   <dmn:itemDefinition id="_9E3CDDEC-E399-445B-B69F-6E84DD972BDB" name="temperature" isCollection="false">
     <dmn:typeRef>string</dmn:typeRef>
-    <dmn:allowedValues kie:constraintType="enumeration" id="_8F644BCE-8646-4041-9B3D-4C658A6AF094">
-      <dmn:text>"cold", "hot", "warm"</dmn:text>
-    </dmn:allowedValues>
   </dmn:itemDefinition>
   <dmn:itemDefinition id="_7040F633-0BE5-44B5-90A9-3CD5B4124253" name="weather" isCollection="false">
     <dmn:itemComponent id="_51066D27-7B1B-45FA-973C-8017D37B1D10" name="rainForecast" isCollection="false">
